@@ -46,6 +46,6 @@ Gizi (Generasi Indonesia Zero Stunting & Wasting) is an AI-based application des
 
 | Path | Link |
 | ----------- | :---------: |
-| Mobile Development Repository | [https://github.com/Gizi-App/mobile-development](https://github.com/Gizi-App/mobile-development) |
-| Machine Learning Repository | [https://github.com/Gizi-App/machine-learning](https://github.com/Gizi-App/machine-learning) |
+| Mobile Development Repository | [https://github.com/Gizi-App/mobile-development](https://github.com/adismoyam/Gizi) |
+| Machine Learning Repository | [https://github.com/Gizi-App/machine-learning](https://github.com/Jabir0/Machine-Learning-GIZI) |
 | Cloud Computing Repository | [https://github.com/Gizi-App/cloud-computing](nanfound) |
