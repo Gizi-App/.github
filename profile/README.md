@@ -1,7 +1,7 @@
 <h1 align="center"> Gizi : Stunting & Wasting Prevention App </h1> <br>
 <p align="center">
   <a>
-    <img alt="Gambar" title="Gambar" src="gambar">
+    <img alt="Cover Gizi" title="Cover Gizi" src="Cover GIZI.png">
   </a>
 </p>
 
