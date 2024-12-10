@@ -1,7 +1,7 @@
 <h1 align="center"> Gizi : Stunting & Wasting Prevention App </h1> <br>
 <p align="center">
   <a>
-    <img alt="Cover Gizi" title="Cover Gizi" src="Cover GIZI.png">
+    <img alt="Gizi" title="Gizi" src="Cover GIZI.png">
   </a>
 </p>
 
@@ -30,6 +30,7 @@ Gizi (Generasi Indonesia Zero Stunting & Wasting) is an AI-based application des
   - TensorFlow Lite
   - Kaggle
   - Kaggle Notebook
+  - Vertex AI Studio
 
 - **Mobile Development:**
   - Figma
@@ -40,8 +41,6 @@ Gizi (Generasi Indonesia Zero Stunting & Wasting) is an AI-based application des
   - Google Cloud Run
   - Firestore
   - Docker
-  - Express
-  - Hapi
  
 # Repository
 
