@@ -5,6 +5,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/OOYlWF6V8t8?si=C3y7p_ZF3V6RekH-">
+    <img src="https://img.youtube.com/vi/OOYlWF6V8t8/0.jpg" alt="Demo Gizi App" title="Demo Gizi App" width="600">
+  </a>
+</p>
 
 # Introduction
 
@@ -50,3 +55,7 @@ Gizi (Generasi Indonesia Zero Stunting & Wasting) is an AI-based application des
 | Mobile Development Repository | [https://github.com/Gizi-App/mobile-development](https://github.com/adismoyam/Gizi) |
 | Machine Learning Repository | [https://github.com/Gizi-App/machine-learning](https://github.com/Jabir0/Machine-Learning-GIZI) |
 | Cloud Computing Repository | [https://github.com/Gizi-App/cloud-computing](https://github.com/irpaann/backend-cloud-gizi) |
+
+# Demo Application
+
+[![GIZI](https://img.shields.io/badge/GIZI-Download%20APK-black.svg?style=for-the-badge&logo=android&logoColor=green)](link)
