@@ -41,6 +41,7 @@ Gizi (Generasi Indonesia Zero Stunting & Wasting) is an AI-based application des
   - Google Cloud Run
   - Firestore
   - Docker
+  - Vertex AI Studio
  
 # Repository
 
