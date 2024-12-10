@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://youtu.be/OOYlWF6V8t8?si=C3y7p_ZF3V6RekH-">
-    <img src="https://img.youtube.com/vi/OOYlWF6V8t8/0.jpg" alt="Demo Gizi App" title="Demo Gizi App" width="600">
+    <img src="https://img.youtube.com/vi/OOYlWF6V8t8/0.jpg" alt="Demo Gizi App" title="Demo Gizi App" width="1000">
   </a>
 </p>
 
@@ -27,7 +27,7 @@ Gizi (Generasi Indonesia Zero Stunting & Wasting) is an AI-based application des
 | C206B4KY2000 | Irfan | Cloud Computing | Universitas Halu Oleo |
 | C206B4KY2115 | Jumain Zulkaidah | Cloud Computing | Universitas Halu Oleo |
 
-# Architecture
+# Languange & Tools
 
 - **Machine Learning:**
   - Python
