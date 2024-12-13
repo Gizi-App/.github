@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/OOYlWF6V8t8?si=C3y7p_ZF3V6RekH-">
-    <img src="https://img.youtube.com/vi/OOYlWF6V8t8/0.jpg" alt="Demo Gizi App" title="Demo Gizi App" width="1000">
+  <a href="https://www.youtube.com/watch?v=wsr5FnVsV4Y">
+    <img src="https://img.youtube.com/vi/wsr5FnVsV4Y/0.jpg" alt="Demo Gizi App" title="Demo Gizi App" width="1000">
   </a>
 </p>
 
