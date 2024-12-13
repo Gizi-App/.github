@@ -61,7 +61,7 @@ In short, Gizi bridges the gap in healthcare access and education. It combines e
 ---
 
 # 🚀 Ready to Make a Difference? Download Gizi Now! 🌐
-<p align="center"> <a href="https://drive.google.com/file/d/1-1wmqztr3d4sX3MGR-cm6QslhrDW-Nic/view?usp=drivesdk"> <img alt="Download GIZI" title="Download GIZI" src="https://img.shields.io/badge/GIZI-Download%20APK-black.svg?style=for-the-badge&logo=android&logoColor=green"> </a> </p>
+<p align="center"> <a href="https://drive.google.com/file/d/1-HsLDbupbG_O04yln3c4FLU7_Pz3UAwJ/view?usp=drivesdk"> <img alt="Download GIZI" title="Download GIZI" src="https://img.shields.io/badge/GIZI-Download%20APK-black.svg?style=for-the-badge&logo=android&logoColor=green"> </a> </p>
 <br>
 
 ---
