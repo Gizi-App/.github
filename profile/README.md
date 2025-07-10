@@ -74,7 +74,7 @@ Gizi is made possible by a dedicated team of passionate and skilled individuals 
 | M206B4KY2033 | Jabir Muktabir        | Machine Learning     | Universitas Halu Oleo     | [LinkedIn](https://www.linkedin.com/in/jabir-muktabir/) |
 | M206B4KY0675 | Arya Dwinata Mustapa  | Machine Learning     | Universitas Halu Oleo     | [LinkedIn](https://www.linkedin.com/in/arya-dwinata-mustapa/)  |
 | M206B4KX0618 | Argitha Trihapsari    | Machine Learning     | Universitas Halu Oleo     | [LinkedIn](https://www.linkedin.com/in/argitha-trihapsari-793898332/)| 
-| A206B4KY0456 | Amar Adi Ismoyo       | Mobile Development   | Universitas Halu Oleo     | [LinkedIn](https://www.linkedin.com/in/adismoyam/)  |
+| A206B4KY0456 | Amar Adi Ismoyo       | Mobile Development   | Universitas Halu Oleo     | [LinkedIn](https://www.linkedin.com/in/amaradiismoyo/)  |
 | A206B4KY3740 | Reksa Leo Saputra     | Mobile Development   | Universitas Halu Oleo     | [LinkedIn](https://www.linkedin.com/in/reksa-leo-saputra-3a3b13285/) |
 | C206B4KY2000 | Irfan                 | Cloud Computing      | Universitas Halu Oleo     | [LinkedIn](https://www.linkedin.com/in/irfan-s-0013a2286/) |
 | C206B4KY2115 | Jumain Zulkaidah      | Cloud Computing      | Universitas Halu Oleo     | [LinkedIn](https://www.linkedin.com/in/jumain-zulkaidah-615489335/)|  
